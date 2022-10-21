@@ -55,3 +55,4 @@ if __name__ == "__main__":
     password = "".join(break_pass)
 
     print(f"Your generated password is {password}")
+    # this is just a test

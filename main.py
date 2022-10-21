@@ -56,3 +56,4 @@ if __name__ == "__main__":
 
     print(f"Your generated password is {password}")
     # this is just a test
+    # this is also another comment
